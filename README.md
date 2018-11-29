@@ -1,5 +1,5 @@
-# PuntoTicket
-Test de PuntoTicket
+# Alcances
+Este proyecto representa la solución al problema enviado por mail. Se decidió resolver el ejercicio en Java.
 
 # Requisitos
 - Se debe tener instalado java 6+
@@ -22,5 +22,8 @@ archivos .java.
 
 # Mejoras
 Básicamente, el código cumple con todo lo requerido, pero se pueden efectuar más validaciones en los input del usuario en la consola. De esta forma no ocurrirían errores inesperados.
+
+# Dudas
+Antes cualquier duda, por favor enviar un mail a felipe.chacon [at] gmail.com
 
 
