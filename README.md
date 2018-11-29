@@ -1,7 +1,7 @@
 # PuntoTicket
 Test de PuntoTicket
 
-#Requisitos
+# Requisitos
 - Se debe tener instalado java 6+
 - Una consola donde ejecutar el programa
 
